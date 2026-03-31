@@ -1,0 +1,5 @@
+shlok,90,A
+harsh,80,B
+nishtha,70,C
+shlok,90,A
+harsh,80,B
